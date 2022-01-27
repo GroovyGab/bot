@@ -2,8 +2,8 @@
 	"name": "with-typescript-recommended",
 	"version": "1.0.0",
 	"main": "dist/index.js",
-	"author": "@sapphire",
-	"license": "UNLICENSE",
+	"author": "gab&zeta",
+	"license": "GPL-3.0",
 	"dependencies": {
 		"@discordjs/collection": "^0.5.0",
 		"@sapphire/decorators": "^4.0.2",
