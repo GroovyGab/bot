@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-language = "bash"
-run = ""
-=======
 language = "nodejs"
 run = "npm run start"
->>>>>>> origin/main
